@@ -1,0 +1,157 @@
+<html>
+    <head>
+        <!--
+
+            incldue files
+
+            CSS / JS
+
+            every library and files should be mentioned
+
+
+            //CSS > Styling Cascading Stylesheet
+
+
+            h > heading
+            p > pragraph
+
+            br > break
+
+            ul > unordered list
+
+            li > list item
+
+           RGB > Red green blue
+                color > 0 to 255
+                r > 0, g > 0, b > 0 : black
+                r >255, g > 255, b > 255 : white
+
+                0-9 > a b c d e f
+             
+        -->
+        <style>
+            body{
+                
+                background-color: #bbffcc;
+            }
+            h1,h2,h3{
+                color: green;
+            }
+
+        </style>
+
+        <title>Coding Ninja</title>
+    </head>
+
+    <body>
+        
+        <a href="#name1">Gulrez</a>
+
+
+        <h1> Hello World!</h1>
+        <h2> Hello World!</h2>
+        <h3> Hello World!</h3>
+        <h4> Hello World!</h4>
+        <h5> Hello World!</h5>
+        <h6> Hello World!</h6>
+
+
+
+        <h1>Heading</h1>
+
+        <br>
+        <p>HEading is used to define heading in browser and can be used to explain highlight pointsbfhknjewfbkhwjnlkfw . <br> HEading is used to define heading in browser and can be used to explain highlight pointsbfhknjewfbkhwjnlkfwHEading is used to define heading in browser and can be used to explain highlight pointsbfhknjewfbkhwjnlkfwHEading is used to define heading in browser and can be used to explain highlight pointsbfhknjewfbkhwjnlkfwHEading is used to define heading in browser and can be used to explain highlight pointsbfhknjewfbkhwjnlkfwHEading is used to define heading in browser and can be used to explain highlight pointsbfhknjewfbkhwjnlkfwHEading is used to define heading in browser and can be used to explain highlight pointsbfhknjewfbkhwjnlkfwHEading is used to define heading in browser and can be used to explain highlight pointsbfhknjewfbkhwjnlkfw</p>
+        <p>HEading is used to define heading in browser and can be used to explain highlight points.</p>
+        <p>HEading is used to define heading in browser and can be used to explain highlight points.</p>
+        <p>HEading is used to define heading in browser and can be used to explain highlight points.</p>
+
+        <br>
+        <br><br><br><br><br><br><br><br>
+
+
+
+        <!-- list.  -->
+        <h1> Please write below program.</h1>
+        <ol>
+            <li>Write a program fo tbale of 2</li>
+            <li>Write a program fo tbale of 3</li>
+            <li>Write a program fo tbale of 4</li>
+            <li>Write a program fo tbale of 5</li>
+            <li>Write a program fo tbale of 6</li>
+            <li>Write a program fo tbale of 7</li>
+
+        </ol>
+
+        <!--Clickable link hyperlink
+        a > anchor
+
+        create a link to redirect to your instagram
+        -->
+
+        <a href="https://codeforces.com/profile/helloardanish">Danish codeforce profile</a>
+        <a href="mailto:iamamgilrez@gmail.com">Gulrez Mail</a>
+
+        <a href="name1">Aatif</a>
+
+
+        <!-- Form tag -->
+        <form>
+            <label>Name : </label>
+            <input type="text" />
+
+            <br>
+
+            <label>Password : </label>
+            <br>
+
+            <input type="password" />
+    <br>
+            
+            <button>Submit</button>
+
+            <!--
+
+                form design
+
+                name > 
+
+                class > 
+
+                age > 
+
+                submit
+
+
+            -->
+
+
+
+            <!--
+
+                with header >
+
+                Label
+
+                input 
+definition
+
+
+different color
+
+
+list > how many solved list.
+
+
+commit into github
+
+
+
+
+            -->
+
+        </form>
+
+
+    </body>
+
+</html>
