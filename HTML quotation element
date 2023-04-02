@@ -1,0 +1,32 @@
+<html>
+<body>
+    
+    <h1 style="text-align: center;"> HTML quotation </h1>
+
+    <p>HTML <b>q </b> tag is uses for creating quotation mark</p>
+    <p> focus on your <q>goal </q>and work hard </p>
+    <h2>abbreviations :-> </h2>
+    <p> <b>abber </b> are uses to show the description when you move mouse over that example are below</p>
+    <p>The <abbr title="World Health Organization">WHO</abbr> was founded in 1948.</p>
+    
+    <h2>address:-></h2>
+    <p><b>address </b> are usually render in italic </p>
+    <address>
+      Written by Abdullah aatif.<br>
+      Visit us at:<br>
+      Bihar, Darbhanga<br>
+      INDIA
+    </address>
+    
+    <h2>cite :-></h2>
+    <p> HTML cite is basically uses for creating some creative work like a book, a poem,a song, a movie etc... & cite element also render in italic word</p>
+    
+    <p><cite>The scream</cite> by Edvard Munch. Painted in 1893.</p>
+    
+    <h2>Bi-Directional Override :-> </h2>
+    <p>element <b>bdo </b>tag is used to override the text directional (lft to rght or vice-versa)</p>
+    
+    <p>this animal name <bdo dir="rtl">tiger </bdo><b> --(tiger)</b> written in right to left </p>
+    
+ 
+    </body></html>
