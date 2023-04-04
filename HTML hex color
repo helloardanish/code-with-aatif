@@ -1,0 +1,18 @@
+<html>
+<body>
+    
+    <h1 style= "text-align: center ">HEX Colors</h1>
+    
+    <p> A hexadecimal color is specified with #RRGGBB where RR (red),GG(green),BB(blue)</p>
+    <p> It's hexadecimal value is between 00 and ff. where ff is color peak point and 00 is bottom point </p>
+    
+    <p style="background-color:#ff0000;"> this text background color is red beacause ff is set to be red </p>
+    
+    <p style="background-color:#00ff00;"> this text background color is green beacause ff is set to be green</p>
+    
+    <p> Shades of gray defined using equal value for all three parameters</p>
+    
+    <p style="background-color:#404040;">background of this text is shade by using #404040 hexadecimal color value</p>
+   
+    </body>
+    </html>
