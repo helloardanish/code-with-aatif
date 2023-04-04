@@ -1,0 +1,39 @@
+<html>
+<body>
+    
+    <h1 style="text-align: center;"> HTML Styles-CSS</h1>
+    
+    <p> <b>CSS</b> stands for Cascading Style Sheets</p>
+    
+    <p> by using <b>CSS</b> you can control the color, font, size of text, the spacing between element,etc...</p>
+    
+    <h2>Types of Using CSS </h2>
+    <p><h3>Inline -</h3> By using the <mark>style</mark> attribute nside HTML elements </p>
+    
+    <p><h3> Internal -</h3> By using a <mark>style</mark> element in the  <mark>head </mark>section </p>
+    
+<h2 style="text-align: center;"><ins>Inline CSS</ins></h2>
+    
+<p style="color: blue;"> This text color changing by using <b>style </b>tag inside <b>p</b> tag (inline css) </p>
+    
+    <h2 style="text-align: center;"><ins>Internal CSS</ins></h2>
+
+    <p> <b> Internal CSS : </b> Means use style in the head section.which can control whole body tag. </p>
+    
+   <p> I will not use internal css there beacause i have lots of <b>p</b> and <b>h</b> tag. if i will use internal css there my all <b>p</b> and <b>h</b> tag color will be change. </p>
+    
+<h2 style="text-align: center;"><ins>CSS Colors, Font, and Sizes </ins></h2>
+    <p> CSS <mark>color</mark> property will change text color. </p>
+    
+    <p> CSS <mark>font-family</mark> property will change text font. </p>
+    
+    <p> CSS <mark>font-size</mark> property will change text size. </p>
+    
+    
+    
+    
+    
+    
+    
+    
+    </body></html>
