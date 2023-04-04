@@ -1,0 +1,35 @@
+<html>
+<style>
+    p{
+        border: 2px blue;
+        padding: 10px;
+     margin: 2s0px;
+    
+    
+     }
+    
+    
+    </style>
+<body>
+    
+    <h2 style="text-align: center;"><ins>CSS Border</ins></h2>
+    
+    <p> When you write some text and you want text border around line.</p>
+    
+    <p> Use border property inside <mark>style </mark>attribute</p>
+    
+    <p> An example are below this line </p>
+    
+    <p style="border:2px solid Violet;"> this text have border with 2px and color is solid violet </p>
+    
+    <h2 style="text-align: center;"><ins>CSS Padding</ins></h2>
+    
+    <p style="border: 2px padding:30px;">this is some text with padding use</p>
+    
+    <h2 style="text-align: center;"><ins>CSS Margin</ins></h2>
+    
+    <p> Margin are used for containing space between outside the border</p>
+    
+    
+    
+    </body></html>
