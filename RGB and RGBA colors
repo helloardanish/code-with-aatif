@@ -1,0 +1,49 @@
+<html>
+<body>
+    
+    <h1 style="text-align: center;"> HTML Colors</h1>
+    <h2>types of color </h2>
+    <h4> 1. RGB</h4>
+    <h4> 2. HEX</h4>
+    <h4> 3. HSL</h4>
+    <h4> 4. RGBA</h4>
+    <h4> 5. HSLA</h4>
+    
+    <p> Remember that HTML support <mark> 140 </mark>standerd color names </p>
+    
+    <p> For creating background color use the property <b> background-color</b></p>
+    
+    <h1 style="background-color:DodgerBlue;">Hello World</h1>
+    <p style="background-color:Tomato;">Learning HTML...</p>  
+    
+    <p> For creating only text color use <b>color</b> property</p>
+    <p style="color: purple"> Hello this is purple color text </p>
+    
+    <p> For adding color in border use the <b>border </b> element and then add color</p>
+    
+    <p style="border:2px solid Violet;"> this text have border with 2px and color is solid violet </p>
+    
+    <p>Color can also be specified as an <B>RGB </B> value.
+    possibilities of color is 256*256*256=16777216 different color you can write in your program </p>
+    <h2 style="text-align: center;"> RGB Colors</h2>
+    <p style="background-color:rgb(255,0,0);"> This line background color value is 255,0,0 in form of <b>rgb</b></p>
+    
+    <p>There is also a color which is called shades of gray. which can be written in form of <b>rgb </b>with equal parameters value of r,g,b </p>
+    
+    <p style="background-color:rgb(180,180,180)"> This line background color is shades beacause it's value is rgb(180,180,180)</p>
+    
+    <h2 style="text-align: center;">RGBA Colors</h2>
+    
+    <p> Meaning of rgba is (red,green,blue,alpha). The alpha parameter is a number between 0.0 (fully transparent) and 1.0 (not transparent at all):</p>
+    
+    <p style="background-color:rgba(255,99,71,0.5)"> This text background-color value is rgba(255,99,71,0.5) where 0.5 alpha value means half transparancy of the background</p>
+    
+    <p style="background-color:rgba(255,99,71,1.0)"> This text background-color value is rgba(255,99,71,1.0) where 1.0 alpha value means no transparancy of the background</p>
+    
+    <p style="background-color:rgba(255,99,71,0.0)"> This text background-color value is rgba(255,99,71,0.0) where 0.0 alpha value means full transparancy of the background.</p>
+    
+    
+ 
+    
+    </body>
+    </html>
