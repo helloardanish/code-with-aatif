@@ -1,0 +1,92 @@
+<html>
+    <head>
+    <style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th {
+  text-align: left;
+}
+</style>
+  
+    </head>
+<body>
+    
+    <h1 style="text-align: center;">HTML Table Headers</h1>
+    
+    <p> Table header are defined with <mark>th</mark> elements. Each <mark>th</mark> element represent a table cell.</p>
+    
+    <table>
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th>
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+</table>
+    
+    <h3 style="text-align: center;">Align Table Headers</h3>
+    
+    <p>By default, table headers are bold and centered:</p>
+    
+    <p>To left-align the table headers, use the CSS <b>text-align</b> property:
+
+</p>
+    
+    <h3 style="text-align: center;">Header for Multiple Columns</h3>
+    
+    <p>You can have a header that spans over two or more columns.</p>
+    
+    <p>To do this, use the <mark>colspan</mark> attribute on the <mark>th</mark> element:</p>
+    
+    
+    <table>
+  <tr>
+    <th colspan="2">Name</th>
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+</table>
+    
+    <h3 style="text-align: center;">Table Caption</h3>
+    
+    <p>You can add a caption that serves as a heading for the entire table.</p>
+    
+    <p>To add a caption to a table, use the <mark>caption</mark> tag:</p>
+    
+    <table style="width:50%">
+        <caption><b>Monthly savings</b></caption>
+  <tr>
+    <th>Month</th>
+    <th>Savings</th>
+  </tr>
+  <tr>
+    <td>January</td>
+    <td>$100</td>
+  </tr>
+  <tr>
+    <td>February</td>
+    <td>$50</td>
+  </tr>
+</table>
+  
+    </body></html>
