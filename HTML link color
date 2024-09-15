@@ -1,0 +1,46 @@
+<html>
+    
+    <style>
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style>
+    
+    
+<body>
+    
+    <h1 style="text-align:center;"><ins>HTML Link Color</ins></h1>
+    
+    <ul>
+    <li>An unvisited link is underlined and blue</li>
+    <li>Avisited link is underlined and purple</li>
+    <li>An active link is underlined and red </li>
+    </ul> 
+    
+    <h3>You can change the link state color, by using CSS :</h3>
+    
+    
+    <a href="https://www.w3schools.com/html/";>HTML Tutorial</a>
+    
+    
+    </body></html>

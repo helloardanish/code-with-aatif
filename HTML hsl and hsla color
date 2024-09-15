@@ -1,0 +1,38 @@
+<html>
+<body>
+ 
+    <h1 style="text-align: center;"> HSL and HSLA color</h1>
+    <h2>HSL Color</h2>
+    <p><b>HSL</b> is stand for hue,saturation and saturation</p>
+    
+    <p> <b>Hue</b> color values is varies from 0 to 360.
+    where 0 is red, 120 is green, 240 is blue</p>
+    
+    <p> <b>Saturtaion</b> is a percentage values. 0% means shades of gray.and 100% is the full colors</p>
+    
+    <p> <b> lightness</b> is also a percentage value. where 0% is black, and 100% is white</p>
+    
+    
+    
+    
+    <p style= "background-color:hsl(0,100%,50%);"> this background-color is red. beacause in hsl first parameter is set to be 0% (red), saturation is set to be 100%(full color) and lightness is set to be 50%(neither dark nor light) </p>
+    
+    
+    <p><b>shades of gray </b> are often defined by setting the hue and saturation to 0 and adjusting the lightness from 0% to 100% </p>
+    
+    <p style="background-color: hsl(0,0%,20%);">this text background-color is gray with lightness 20%</p>
+    
+    <p style="background-color: hsl(0,0%,55%);">this text background-color is gray with lightness 55%</p>
+    
+    <p style="background-color: hsl(0,0%,80%);">this text background-color is gray with lightness 80%</p>
+    
+    <h2>HSLA Color</h2>
+ 
+    <p>hsla stand for ( hue, saturation, lightness and alpha). where the alpha parameter is a number between 0.0 (fully transparent) and 1.0 (not transparent at all)</p>   
+    
+    <p style="background-color:hsla(240,100%,64%,0.4)"> This text background color is blue but due to alpha value 0.4 not showing full blue color </p>
+    
+    
+    
+    </body>
+    </html>

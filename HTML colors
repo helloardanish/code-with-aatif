@@ -1,0 +1,28 @@
+<html>
+<body>
+    
+    <h1 style="text-align: center;"> HTML Colors</h1>
+    <h2>types of color </h2>
+    <h4> 1. RGB</h4>
+    <h4> 2. HEX</h4>
+    <h4> 3. HSL</h4>
+    <h4> 4. RGBA</h4>
+    <h4> 5. HSLA</h4>
+    
+    <p> Remember that HTML support <mark> 140 </mark>standerd color names </p>
+    
+    <p> For creating background color use the property <b> background-color</b></p>
+    
+    <h1 style="background-color:DodgerBlue;">Hello World</h1>
+    <p style="background-color:Tomato;">Learning HTML...</p>  
+    
+    <p> For creating only text color use <b>color</b> property</p>
+    <p style="color: purple"> Hello this is purple color text </p>
+    
+    <p> For adding color in border use the <b>border </b> element and then add color</p>
+    
+    <p style="border:2px solid Violet;"> this text have border with 2px and color is solid violet </p>
+    
+    
+    </body>
+    </html>
